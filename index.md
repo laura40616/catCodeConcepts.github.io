@@ -1,12 +1,13 @@
 ## Welcome to Cat Code Concepts
 
-You can use the [editor on GitHub](https://github.com/laura40616/catCodeConcepts.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Programming concepts explained WITH CATS!!!
+
+Be sure to check out ["Your Basic Cat"](https://laura40616.github.io/catcodeconcepts/your-basic-cat) before reading any of the sections!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
