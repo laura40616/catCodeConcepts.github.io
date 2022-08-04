@@ -4,7 +4,7 @@ Programming concepts explained WITH CATS!!!
 
 Be sure to check out ["Your Basic Cat"](https://laura40616.github.io/catcodeconcepts/yourBasicCat) before reading any of the sections!
 
-[Prototype Pattern](https://laura40616.github.io/catcodeconcepts/prototypeCat)
+[Prototype Pattern](https://laura40616.github.io/catcodeconcepts/prototypePattern)
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
