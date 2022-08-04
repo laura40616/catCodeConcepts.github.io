@@ -2,9 +2,11 @@
 
 Programming concepts explained WITH CATS!!!
 
-Be sure to check out ["Your Basic Cat"](https://laura40616.github.io/catcodeconcepts/your-basic-cat) before reading any of the sections!
+Be sure to check out ["Your Basic Cat"](https://laura40616.github.io/catcodeconcepts/yourBasicCat) before reading any of the sections!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Prototype Pattern](https://laura40616.github.io/catcodeconcepts/prototypeCat)
+
+<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -35,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
