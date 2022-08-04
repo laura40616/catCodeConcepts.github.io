@@ -1,4 +1,4 @@
-## Prototype Pattern explained…with cats
+# Prototype Pattern explained…with cats
 
 ![Prototype Pattern](./images/prototypeCat.jpg?raw=true)
 

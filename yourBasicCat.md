@@ -2,7 +2,7 @@
 title: "Your Basic Cat"
 permalink: /your-basic-cat/ -->
 
-## Your basic cat
+# Your basic cat
 
 ![your basic cat](./images/basicBecky.jpg?raw=true)
 
