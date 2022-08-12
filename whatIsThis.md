@@ -3,4 +3,4 @@ title: "What IS this??"
 permalink: /what-is-this/
 ---
 
-I have no idea what this is
+I have no <strong>idea</strong> what this is

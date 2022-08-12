@@ -1,10 +1,21 @@
 ## Welcome to Cat Code Concepts
 
+<style type="text/css">
+    button {
+        padding: 15px;
+        font-size: 20px;
+        background-image: linear-gradient(45deg, #1e90ff 0%, #ffe135 48%, #ff7f50 80%, #ff1493 100%);
+        cursor:pointer;
+        border: 3px solid#9370db;
+        color: white;
+    }
+</style>
+
 Programming concepts explained WITH CATS!!!
 
 Be sure to check out ["Your Basic Cat"](https://laura40616.github.io/catcodeconcepts/yourBasicCat) before reading any of the sections!
 
-[Prototype Pattern](https://laura40616.github.io/catcodeconcepts/prototypePattern)
+<button>[Prototype Pattern](https://laura40616.github.io/catcodeconcepts/prototypePattern)</button>
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
