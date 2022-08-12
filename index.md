@@ -13,6 +13,7 @@
         /* margin-left:auto; */
         /* margin-right:auto; */
         display:block;
+        font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
     }
 </style>
 
