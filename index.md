@@ -4,12 +4,14 @@
     button {
         padding: 12px;
         font-size: 20px;
-        background-image: linear-gradient(45deg, #1e90ff 0%, #ffe135 48%, #ff7f50 80%, #ff1493 100%);
+        background-image:linear-gradient(45deg, #ff1493  0%, #ff7f50 28%, #ffe135 48%, #1e90ff 100%);
+        /* background-image: linear-gradient(45deg, #1e90ff 0%, #ffe135 48%, #ff7f50 80%, #ff1493 100%); */
         cursor:pointer;
         border: 3px solid #9370db;
         width: 80%;
-        margin-left:auto;
-        margin-right:auto;
+        text-align: left;
+        /* margin-left:auto; */
+        /* margin-right:auto; */
         display:block;
     }
 </style>
